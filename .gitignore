@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Archivos temporales
+.DS_Store
+*.log
+
+# Imágenes RAW y archivos pesados
+*.CR2
